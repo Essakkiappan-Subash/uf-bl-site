@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #F8636C;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_3247" data-name="Group 3247" transform="translate(-265 -535)">
+    <path id="Path_92486" data-name="Path 92486" class="cls-1" d="M15,0A15,15,0,1,1,0,15,15,15,0,0,1,15,0Z" transform="translate(265 535)"/>
+    <path id="Path" class="cls-2" d="M0,0H15.142V1.566H0Z" transform="translate(272.784 549.57)"/>
+    <path id="Path_-_Outline" data-name="Path - Outline" class="cls-2" d="M-1-1H16.142V2.566H-1Z" transform="translate(272.784 549.57)"/>
+    <path id="Path-2" data-name="Path" class="cls-2" d="M0,0H15.142V1.566H0Z" transform="translate(281.138 542.783) rotate(90)"/>
+    <path id="Path_-_Outline-2" data-name="Path - Outline" class="cls-2" d="M-1-1H16.142V2.566H-1Z" transform="translate(281.138 542.783) rotate(90)"/>
+  </g>
+</svg>
